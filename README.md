@@ -1,7 +1,7 @@
 # CPP_modules | 42KL
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png width="50" alt="C++" title="C++" />
+  <img src=https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png width="100" alt="C++" title="C++" />
 </p>
 
 <h1 align="center">
