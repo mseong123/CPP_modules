@@ -19,6 +19,6 @@
 |  7  | [CPP_06](https://github.com/mseong123/CPP_modules/tree/main/cpp_06) | C++ casts  | Completed 100 / 100 |
 |  8  | [CPP_07](https://github.com/mseong123/CPP_modules/tree/main/cpp_07) | C++ templates   | Completed 100 / 100  |
 |  9  | [CPP_08](https://github.com/mseong123/CPP_modules/tree/main/cpp_08) | Templated containers, iterators, algorithms    | Completed 100 / 100 |
-|  10  | [CPP_09](https://github.com/mseong123/CPP_modules/tree/main/cpp_09) | Templated containers, iterators, algorithms    | Completed 100 / 100 |
+|  10  | [CPP_09](https://github.com/mseong123/CPP_modules/tree/main/cpp_09) | STL | Completed 100 / 100 |
 
 ---
