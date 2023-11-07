@@ -10,7 +10,7 @@
 
 |  Nº | Project | Description | Topics | Status |
 |-----|---------|-------------|--------|--------|
-|  1  | [CPP_00](https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_00) | Getting familiar with C++       | Classes, member fucntions, and some basic stuff.. | [![ael-khni's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2670510)](https://github.com/JaeSeoKim/badge42) |
+|  1  | [CPP_00]([https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_00](https://github.com/mseong123/CPP_modules/tree/main/cpp_00)) | Getting familiar with C++       | Classes, member fucntions, and some basic stuff.. | 100 / 100 |
 |  2  | [CPP_01](https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_01) | BraiiiiiiinnnzzzZ | New, pointers to members, references, switch statement	 | [![ael-khni's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2674581)](https://github.com/JaeSeoKim/badge42)   |
 |  3  | [CPP_02](https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_02) | My First Orthodox Class      | ad-hoc polymorphism, operator overloading and Orthodox Cononical class form | [![ael-khni's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2684257)](https://github.com/JaeSeoKim/badge42) |
 |  4  | [CPP_03](https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_03) | Aaaaand... OPEN!      | Inheritance | [![ael-khni's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2686408)](https://github.com/JaeSeoKim/badge42) |
