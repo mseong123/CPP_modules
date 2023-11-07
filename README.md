@@ -8,17 +8,18 @@
 	CPP-Modules
 </h1>
 
-|  No | Project | Description | Topics | Status |
-|-----|---------|-------------|--------|--------|
-|  1  | [CPP_00](https://github.com/mseong123/CPP_modules/tree/main/cpp_00) | Getting familiar with C++       | Classes, member functions, and some basic stuff.. | Completed 100 / 100 |
-|  2  | [CPP_01](https://github.com/mseong123/CPP_modules/tree/main/cpp_01) | BraiiiiiiinnnzzzZ | New, pointers to members, references, switch statement	 | Completed 100 / 100  |
-|  3  | [CPP_02](https://github.com/mseong123/CPP_modules/tree/main/cpp_02) | My First Orthodox Class      | ad-hoc polymorphism, operator overloading and Orthodox Cononical class form | Completed 100 / 100 |
-|  4  | [CPP_03](https://github.com/mseong123/CPP_modules/tree/main/cpp_03) | Aaaaand... OPEN!      | Inheritance | Completed 100 / 100 |
-|  5  | [CPP_04](https://github.com/mseong123/CPP_modules/tree/main/cpp_04) | I don't want to set the world on fire       | Subtype polymorphism, abstract classes, interfaces | Completed 100 / 100 |
-|  6  | [CPP_05](https://github.com/mseong123/CPP_modules/tree/main/cpp_05) | Mommy, when I grow up, I want to be a bureaucrat!       | Repetition and Exceptions | Completed 100 / 100   |
-|  7  | [CPP_06](https://github.com/mseong123/CPP_modules/tree/main/cpp_06) | Scalar conversion       | C++ casts  | Completed 100 / 100 |
-|  8  | [CPP_07](https://github.com/mseong123/CPP_modules/tree/main/cpp_07) | A few functions and class template       | C++ templates   | Completed 100 / 100  |
-|  9  | [CPP_08](https://github.com/mseong123/CPP_modules/tree/main/cpp_08) | Playing with templates and containers      | Templated containers, iterators, algorithms    | Completed 100 / 100 |
-|  10  | [CPP_09](https://github.com/mseong123/CPP_modules/tree/main/cpp_09) | Playing with templates and containers  2     | Templated containers, iterators, algorithms    | Completed 100 / 100 |
+|  No | Project | Topics | Status |
+|-----|---------|--------|--------|
+|  1  | [CPP_00](https://github.com/mseong123/CPP_modules/tree/main/cpp_00) | Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic
+stuff | Completed 100 / 100 |
+|  2  | [CPP_01](https://github.com/mseong123/CPP_modules/tree/main/cpp_01) | New, pointers to members, references, switch statement	 | Completed 100 / 100  |
+|  3  | [CPP_02](https://github.com/mseong123/CPP_modules/tree/main/cpp_02) | ad-hoc polymorphism, operator overloading and Orthodox Cononical class form | Completed 100 / 100 |
+|  4  | [CPP_03](https://github.com/mseong123/CPP_modules/tree/main/cpp_03) | Inheritance | Completed 100 / 100 |
+|  5  | [CPP_04](https://github.com/mseong123/CPP_modules/tree/main/cpp_04) | Subtype polymorphism, abstract classes, interfaces | Completed 100 / 100 |
+|  6  | [CPP_05](https://github.com/mseong123/CPP_modules/tree/main/cpp_05) | Repetition and Exceptions | Completed 100 / 100   |
+|  7  | [CPP_06](https://github.com/mseong123/CPP_modules/tree/main/cpp_06) | C++ casts  | Completed 100 / 100 |
+|  8  | [CPP_07](https://github.com/mseong123/CPP_modules/tree/main/cpp_07) | C++ templates   | Completed 100 / 100  |
+|  9  | [CPP_08](https://github.com/mseong123/CPP_modules/tree/main/cpp_08) | Templated containers, iterators, algorithms    | Completed 100 / 100 |
+|  10  | [CPP_09](https://github.com/mseong123/CPP_modules/tree/main/cpp_09) | Templated containers, iterators, algorithms    | Completed 100 / 100 |
 
 ---
