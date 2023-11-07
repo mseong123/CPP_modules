@@ -10,9 +10,8 @@
 
 |  No | Project | Topics | Status |
 |-----|---------|--------|--------|
-|  1  | [CPP_00](https://github.com/mseong123/CPP_modules/tree/main/cpp_00) | Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic
-stuff | Completed 100 / 100 |
-|  2  | [CPP_01](https://github.com/mseong123/CPP_modules/tree/main/cpp_01) | New, pointers to members, references, switch statement	 | Completed 100 / 100  |
+|  1  | [CPP_00](https://github.com/mseong123/CPP_modules/tree/main/cpp_00) | Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff | Completed 100 / 100 |
+|  2  | [CPP_01](https://github.com/mseong123/CPP_modules/tree/main/cpp_01) | Memory allocation, pointers to members, references, switch statement | Completed 100 / 100  |
 |  3  | [CPP_02](https://github.com/mseong123/CPP_modules/tree/main/cpp_02) | ad-hoc polymorphism, operator overloading and Orthodox Cononical class form | Completed 100 / 100 |
 |  4  | [CPP_03](https://github.com/mseong123/CPP_modules/tree/main/cpp_03) | Inheritance | Completed 100 / 100 |
 |  5  | [CPP_04](https://github.com/mseong123/CPP_modules/tree/main/cpp_04) | Subtype polymorphism, abstract classes, interfaces | Completed 100 / 100 |
